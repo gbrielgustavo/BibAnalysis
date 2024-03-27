@@ -1,0 +1,33 @@
+{
+	'id': 'chatcmpl-93wNV6pKXSdgsLgYgDgQX1UeroBUr',
+	'choices':
+		[
+			{
+				'finish_reason': 'stop',
+				'index': 0,
+				'logprobs': None,
+				'message':
+					{
+						'content': '{
+							\n
+							"context": "Public sector, energy policy, change management theory.",
+							\n
+							"objectives": "To explore how leaders can manipulate public perception and ideological entrenchment in energy policy, specifically in the context of Japanese nuclear power.",
+							\n
+							"methods": "Drawing from change management theory, analyzing Japan\'s nuclear power program, proposing a framework for altering mass public perspectives.",
+							\n
+							"results": "Suggests that policymakers need to understand the contextual environment to customize policy design, and speculates on altering policymakers\' perceptions through efforts from the alternative energy sector."
+							\n
+							}',
+						
+						'role': 'assistant',
+						'function_call': None,
+						'tool_calls': None
+					}
+			}
+		],
+	'created': 1710726417,
+	'model': 'gpt-3.5-turbo-0125',
+	'object': 'chat.completion',
+	'system_fingerprint': 'fp_4f2ebda25a',
+	'usage': {'completion_tokens': 108, 'prompt_tokens': 625, 'total_tokens': 733}}
